@@ -52,7 +52,7 @@ const CoinTable = () => {
                     <img height="30" src={coin.image} alt={coin.id} /> : "No Image Found"
                 }
               </td>
-              <td><Link to={coin.id}>{coin.name}</Link></td>
+              <td><Link style={{color:'gold'}}to={coin.id}>{coin.name}</Link></td>
               <td>${coin.current_price.toLocaleString('en-UK')}</td>
               <td style={{ color: coin.price_change_percentage_24h >= 0 ? 'green' : 'red' } }>{coin.price_change_percentage_24h?.toFixed(2)}%</td>
               <td>${coin.market_cap.toLocaleString('en-UK')}</td>

@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;800&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 @import url('http://fonts.cdnfonts.com/css/gagalin');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
 
 
@@ -27,7 +28,7 @@ header {
 }
 
 #brand {
-  font-family: 'Gagalin', sans-serif;
+  font-family: 'Anton', sans-serif;
   font-size: 30px;
   display: inline-flex;
   align-items: center;
@@ -37,7 +38,7 @@ header {
 ul {
   list-style: none;
   justify-content: space-around;
-  font-family: 'Gagalin', sans-serif;
+  font-family: 'Anton', sans-serif;
   font-size: 20px;
   display: inline-flex;
   align-items: center;
@@ -61,7 +62,7 @@ ul li:hover {
   flex-direction: column;
   justify-content: center;
   text-align: center;
-  font-family: 'Gagalin', sans-serif;
+  font-family: 'Anton', sans-serif;
   font-size: 50px;
   margin-top: 15%;
 }
@@ -76,7 +77,7 @@ span {
 h3 {
   background-color: grey;
   text-align: center;
-  font-family: 'Gagalin', sans-serif;
+  font-family: 'Anton', sans-serif;
   margin-bottom: 10px;
 }
 
@@ -85,7 +86,7 @@ h3 {
   flex-direction: column;
   justify-content: center;
   /* text-align: center; */
-  font-family: 'Gagalin', sans-serif;
+  font-family: 'Anton', sans-serif;
   font-size: 20px;
   margin: 10%;
   text-decoration: none;

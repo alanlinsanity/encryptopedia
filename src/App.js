@@ -5,12 +5,13 @@ import HomePage from './Pages/HomePage';
 import CoinPage from './Pages/CoinPage';
 import NewsPage from './Pages/NewsPage';
 import { makeStyles } from "@material-ui/core";
+import 'helvatica-neue-lt/index.css';
 
 function App() {
 
   const useStyles = makeStyles(() => ({
     App: {
-      backgroundColor: '#14161a',
+      backgroundColor: '#43556D',
       color: "white",
       minHeight: "100vh",
     },

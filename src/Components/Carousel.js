@@ -41,7 +41,7 @@ const Carousel = () => {
 
     return (
       <div>   
-        <span> {coin?.symbol} </span>
+        <span> {coin?.symbol.toUpperCase()} </span>
         <span> </span>
          <span style={ { color: profit ? 'green' : 'red' } }> {profit} {coin?.price_change_percentage_24h?.toFixed(2)}% </span> 
          </div>
