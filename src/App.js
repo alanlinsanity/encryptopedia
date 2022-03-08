@@ -3,9 +3,8 @@ import './App.css';
 import Header from './Components/Header';
 import HomePage from './Pages/HomePage';
 import CoinPage from './Pages/CoinPage';
-import NewsPage from './Pages/NewsPage';
+import VideoPage from './Pages/VideoPage';
 import { makeStyles } from "@material-ui/core";
-import 'helvatica-neue-lt/index.css';
 
 function App() {
 
@@ -27,7 +26,7 @@ function App() {
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path='/:id' element={<CoinPage />}/> 
-          <Route path='/news' element={<NewsPage />}/> 
+          <Route path='/videos' element={<VideoPage />}/> 
         </Routes>
       </div>
     </Router>
