@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/encryptopedia/static/css/main.abc09b05.css",
+    "main.js": "/encryptopedia/static/js/main.1d1ccb06.js",
+    "index.html": "/encryptopedia/index.html",
+    "main.abc09b05.css.map": "/encryptopedia/static/css/main.abc09b05.css.map",
+    "main.1d1ccb06.js.map": "/encryptopedia/static/js/main.1d1ccb06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abc09b05.css",
+    "static/js/main.1d1ccb06.js"
+  ]
+}
