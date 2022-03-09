@@ -112,6 +112,7 @@ h3 {
 }
 
 .singleCoinTitle {
+  font-family: 'Anton', sans-serif;
   font-size: 50px;
   text-align: center;
   margin: 50px;
@@ -125,4 +126,34 @@ h3 {
 
 .coinLink {
   color: gold;
+}
+
+.videoPageTitle {
+  font-family: 'Anton', sans-serif;
+  font-size: 50px;
+  text-align: center;
+  margin: 120px;
+}
+
+.youtubeVideos {
+  font-family: 'Anton', sans-serif;
+  font-size: 50px;
+  text-align: center;
+  margin: 50px;
+}
+
+.youtubeSingleVideo {
+  margin: 20px;
+}
+
+form {
+  align-items: center;
+  text-align: center;
+  font-size: 25px;
+}
+
+input {
+  margin: 20px;
+  font-size: 25px;
+  text-align: center;
 }
