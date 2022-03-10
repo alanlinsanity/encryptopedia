@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/encryptopedia/static/css/main.4f7133a4.css",
-    "main.js": "/encryptopedia/static/js/main.2591a01f.js",
+    "main.css": "/encryptopedia/static/css/main.a0278033.css",
+    "main.js": "/encryptopedia/static/js/main.9f950673.js",
     "index.html": "/encryptopedia/index.html",
-    "main.4f7133a4.css.map": "/encryptopedia/static/css/main.4f7133a4.css.map",
-    "main.2591a01f.js.map": "/encryptopedia/static/js/main.2591a01f.js.map"
+    "main.a0278033.css.map": "/encryptopedia/static/css/main.a0278033.css.map",
+    "main.9f950673.js.map": "/encryptopedia/static/js/main.9f950673.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f7133a4.css",
-    "static/js/main.2591a01f.js"
+    "static/css/main.a0278033.css",
+    "static/js/main.9f950673.js"
   ]
 }
