@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+<h1>Encryptopedia </h1>
+Encryptopedia is a cryptocurrency price tracking react app that pulls in market data from CoinGecko API. <br/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br />
+<h1>Introduction </h1>
+On our homepage, the top 10 trending coins are displayed on the top of the page. </br>
 
-## Available Scripts
+Users are able to see the top 50 coins listed on CoinGecko. When users click on the names of any of the listed coins, they will be able to gather more information with regards to the particular cryptocurrency. <br/>
 
-In the project directory, you can run:
+On the Video Page, users are able to view the top 10 videos relating to cryptocurrency. They are able to search for videos of any cryptocurrency. The videos rendered by using YouTube's API.
 
-### `npm start`
+<br />
+<h1>Tech Stack </h1>
+<ul>
+<li>React JS</li>
+<li>HTML & CSS</li>
+<li>Axios API</li>
+<li>Git & Github</li>
+<li>Visual Studio Code</li>
+</ul>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br />
+<h1>Wireframes </h1>
+Wireframes were done on Canva: https://www.canva.com/design/DAE5EnzTNyI/UGSZbNjAGLQDoS9J0FtdCg/view
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<br />
+<h1>Project Progress </h1><ul>
+<li>Created a React App with the main pages and linked them using React Router DOM</li>
+<li>Created various components, each fetching different APIs using AXIOS - trending coins, all coins, individual coin & videos</li>
+<li>Adding in a search bar for users to search for any cryptocurrency related videos</li>
+</ul>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br />
+<h1>Future Implementations </h1><ul>
+<li>Allowing users to add coins to their own watchlist / portfolio tracker</li>
+<li>Adding graphs into individual coin page </li>
+<li>Allowing users to toggle between different currencies </li>
+</ul>
 
-### `npm run build`
+<br />
+<h1>Deployment </h1>
+Encryptopedia is deployed on github pages: https://alanlinsanity.github.io/encryptopedia/
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br />
+<h1>Summary </h1>
+Encryptopedia is a great exercise for me to put what I have learnt in React into use. I am glad to have finally implement APIs in my own project.
